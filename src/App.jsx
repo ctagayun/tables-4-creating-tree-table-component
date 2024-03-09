@@ -8,6 +8,9 @@ import InsertDriveFileOutlinedIcon from '@mui/icons-material/InsertDriveFileOutl
         You can now scroll the rows of the table in a vertical 
         direction while the header remains sticky at the top of the 
         table.
+
+        Install material icons:
+          npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 */
 
 
